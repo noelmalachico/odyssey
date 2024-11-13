@@ -1,5 +1,1 @@
-@echo off
-
-set DNS=148.113.195.238
-set NATION=US
-start rohanclient.exe "http://%DNS%&1&%NATION%"
+https://148.113.195.238&1&US
